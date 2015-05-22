@@ -1,13 +1,7 @@
 /*
-UNAM
-Facultad de Ingeniería
-Compiladores
-Ing. Laura Sandoval Montaño
-Programa opcional 
 Parser recursivo de la grámatica de las operaciones aritmeticas con notación polaca posfija
 24 de Abril de 2014
 Salazar Cárdenas Carlos Eduardo
-Abonza Cortes Carlos Alberto
 */
 
 #include <stdio.h>
