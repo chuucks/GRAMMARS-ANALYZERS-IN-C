@@ -1,11 +1,6 @@
 %{
 /*
-UNAM FI
-Compiladores Ing. Laura Sandoval
-Grupo 04 2015-2
-Programa opcional
 Salazar Cárdenas Carlos Eduardo
-Cortés Abonza Carlos Alberto
 */
 
 #include <stdio.h>
